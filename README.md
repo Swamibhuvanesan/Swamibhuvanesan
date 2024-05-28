@@ -40,6 +40,7 @@ Don't hesitate to reach out! Whether it's a question, collaboration, or just to 
   <div align="center">
    <video controls autoplay>
   <source src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/usopp leaves.mp4" type="video/mp4">
+   </video>
 </div>
 </div>
 
