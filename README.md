@@ -1,69 +1,44 @@
-# Konichiwa 👋
+# 👋 Konnichiwa! Welcome to my Profile 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/one-piece-hello.gif">
+  <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/one-piece-hello.gif" width="700" height="300" alt="GIF">
 </div>
 
-</br>
-</br>
-</br>
+---
 
+## 💬 About Me
 
-# About ME 💬 :
+Hey there! I'm a passionate 21-year-old from India diving deep into the realms of machine learning and artificial intelligence.
 
-### - I am an enthusiastic 21-year-old from India who is interested in machine learning and artificial intelligence.
+<img align="right" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/goodjob-thumbsup.gif" width="500" height="400" alt="GIF">
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/goodjob-thumbsup.gif">
+### 🚀 Learning
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Cyber Security
-- ✨ Data Science
+- **AI/ML**
+- **Data Science**
+- **Cyber Security**
 
-### - Interest : 
-- ✨ Games
-- ✨ Anime 
-- ✨ Reading Self Improvement books.
-- ✨ Coding
+### ✨ Interests
 
-</br>
-</br>
-</br>
+- **Gaming 🎮**
+- **Anime 🍱**
+- **Coding 💻**
 
+---
 
+## 📞 Connect with Me
 
+Don't hesitate to reach out! Whether it's a question, collaboration, or just to say hi, I'm all ears 😄
 
+<div align="center">
+  <a href="mailto:swamibhuvanesan@gmail.com">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" width="50" height="50" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/swami--nathan/">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="50" alt="LinkedIn">
+  </a>
+</div>
 
-# Contact Me :
+---
 
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/luffy's%20Yo.gif">
-
-
-Don't be afraid to connect with me if you want to talk to me about anything I am up to😉...
-
-<a href="mailto:swamibhuvanesan@gmail.com">
- <img align="left" alt="Gmail" width="50" hight="50" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/swami--nathan/">
-  <img align="left" alt="Linkedin" width="50" hight="50" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-*************
+Made with ❤️ by Swaminathan | Portfolio link will be added soon...
