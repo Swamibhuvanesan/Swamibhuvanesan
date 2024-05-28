@@ -38,7 +38,7 @@ Don't hesitate to reach out! Whether it's a question, collaboration, or just to 
     <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="50" alt="LinkedIn">
   </a>
   <div align="center">
-  <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/gintoki-wave.gif" width="700" height="400" alt="GIF">
+  <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/usopp leaves.mp4" width="700" height="400" alt="GIF">
 </div>
 </div>
 
