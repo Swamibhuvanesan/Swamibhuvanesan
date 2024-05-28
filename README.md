@@ -1,7 +1,7 @@
 # 👋 Konnichiwa! Welcome to my Profile 👋
 
 <div align="center">
-  <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/one-piece-hello.gif" width="700" height="300" alt="GIF">
+  <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/gintoki-wave" width="700" height="300" alt="GIF">
 </div>
 
 ---
