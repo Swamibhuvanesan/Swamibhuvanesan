@@ -38,8 +38,8 @@ Don't hesitate to reach out! Whether it's a question, collaboration, or just to 
     <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="50" alt="LinkedIn">
   </a>
   <div align="center">
-   [![Watch Video](https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/zenitsu-agatsuma-hey-demon-slayer.gif)](https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/usopp leaves.mp4)
-  <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/usopp leaves.mp4" width="700" height="400" alt="GIF">
+   <video controls autoplay>
+  <source src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/usopp leaves.mp4" type="video/mp4">
 </div>
 </div>
 
