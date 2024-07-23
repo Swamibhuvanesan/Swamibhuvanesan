@@ -25,20 +25,25 @@ MCA graduate specializing in Python, machine learning, and large language models
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="Resourse/Icons/Git.png" align="left" alt="git" height='42px'/> </a>
+
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="Resourse/Icons/Python.png"></a>
+
+<a href="https://www.langchain.com/" target="_blank"> <img src="Resourse/Icons/LC.png" align="left" alt="git" height='42px'/> </a>
+
+<a href="https://huggingface.co/" target="_blank"> <img src="Resourse/Icons/HF.png" align="left" alt="git" height='42px'/> </a>
+
+<a href="https://streamlit.io/" target="_blank"> <img src="Resourse/Icons/Streamlit.png" align="left" alt="git" height='42px'/> </a>
+
+
 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="https://github.com/Swamibhuvanesan/Image-classification-project" target="_blank"> <img alt="Celebrity Image Classifier" src="Resourse/Icons/cic.jpeg" height="68" align="left"> </a>
+<a href="https://github.com/Swamibhuvanesan/LLM-project/tree/main/!Custom%20Knowledge%20Base%20Chatbot" target="_blank"> <img alt="Custom Knowledge Base Chatbot" src="Resourse/Icons/CKcb.jpg"  height="68" align="left"> </a>
+<a href="https://github.com/Swamibhuvanesan/LLM-Explorations" target="_blank"> <img alt="LLM-Explorations" src="Resourse/Icons/LLM-Exploration.jpg" height="68" align="left"> </a>
+
 
 <p align="center">
   Made with ❤️ by Swaminathan | Portfolio link coming soon...
