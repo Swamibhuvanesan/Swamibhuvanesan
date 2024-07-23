@@ -1,11 +1,15 @@
 ## Hey 👋, I'm Swaminathan!
-<a href='https://www.linkedin.com/in/swami--nathan/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+  <a href="mailto:swamibhuvanesan@gmail.com">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" width="50" height="50" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/swami--nathan/">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="50" alt="LinkedIn">
+  </a>
 
 
 MCA graduate specializing in Python, machine learning, and large language models. Passionate about AI/ML 🤖, Art 🎨, Competetive coding 💻, Building various projects 🛠️. 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/gintoki-wave.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
