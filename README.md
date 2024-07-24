@@ -25,7 +25,6 @@ MCA graduate specializing in Python, machine learning, and large language models
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1llbDkdr181CU5jTWjrwelQ4IRHDbhFvV/view?usp=drive_link)
 
 <br>
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://git-scm.com/" target="_blank"> <img src="Resourse/Icons/Git.png" align="left" alt="git" height='42px'/> </a>
