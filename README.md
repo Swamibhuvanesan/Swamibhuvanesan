@@ -20,7 +20,7 @@ MCA graduate specializing in Python, machine learning, and large language models
 - 🎨 &nbsp; I love to sketch anime characters and occasionally real people. I will upload my work soon...
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/swami--nathan/)
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1llbDkdr181CU5jTWjrwelQ4IRHDbhFvV/view?usp=drive_link)
 
 <br>
 
@@ -35,8 +35,8 @@ MCA graduate specializing in Python, machine learning, and large language models
 
 <a href="https://streamlit.io/" target="_blank"> <img src="Resourse/Icons/Streamlit.png" align="left" alt="git" height='42px'/> </a>
 
-
-
+<br>
+<br>
 <br>
 
 ### 🛠️ My Projects
@@ -44,6 +44,9 @@ MCA graduate specializing in Python, machine learning, and large language models
 <a href="https://github.com/Swamibhuvanesan/LLM-project/tree/main/!Custom%20Knowledge%20Base%20Chatbot" target="_blank"> <img alt="Custom Knowledge Base Chatbot" src="Resourse/Icons/CKcb.jpg"  height="68" align="left"> </a>
 <a href="https://github.com/Swamibhuvanesan/LLM-Explorations" target="_blank"> <img alt="LLM-Explorations" src="Resourse/Icons/LLM-Exploration.jpg" height="68" align="left"> </a>
 
+<br>
+<br>
+<br>
 
 <p align="center">
   Made with ❤️ by Swaminathan | Portfolio link coming soon...
