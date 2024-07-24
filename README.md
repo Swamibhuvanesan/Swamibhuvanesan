@@ -40,7 +40,6 @@ MCA graduate specializing in Python, machine learning, and large language models
 
 <br>
 <br>
-<br>
 
 ### 🛠️ My Projects
 <a href="https://github.com/Swamibhuvanesan/Image-classification-project" target="_blank"> <img alt="Celebrity Image Classifier" src="Resourse/Icons/cic.jpeg" height="68" align="left"> </a>
