@@ -9,7 +9,7 @@
 
 MCA graduate specializing in Python, machine learning, and large language models. Passionate about AI/ML 🤖, Art 🎨, Competetive coding 💻, Building various projects 🛠️. 
 
-<img align="right" alt="GIF" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/kakashi-hatake-hello.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/kakashi-hatake-hello.gif" width=""/>
 
 <br>
 <br>
@@ -49,6 +49,8 @@ MCA graduate specializing in Python, machine learning, and large language models
 <a href="https://github.com/Swamibhuvanesan/LLM-project/tree/main/!Custom%20Knowledge%20Base%20Chatbot" target="_blank"> <img alt="Custom Knowledge Base Chatbot" src="Resourse/Icons/CKcb.jpg"  height="68" align="left"> </a>
 <a href="https://github.com/Swamibhuvanesan/LLM-Explorations" target="_blank"> <img alt="LLM-Explorations" src="Resourse/Icons/LLM-Exploration.jpg" height="68" align="left"> </a>
 
+<br>
+<br>
 <br>
 <br>
 <br>
