@@ -7,14 +7,12 @@
     <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="40" height="40" alt="LinkedIn">
   </a>
 
-
 MCA graduate specializing in Python, machine learning, and large language models. Passionate about AI/ML 🤖, Art 🎨, Competetive coding 💻, Building various projects 🛠️. 
 
 <img align="right" alt="GIF" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/kakashi-hatake-hello.gif" width="350px"/>
 
 <br>
-<br>
-<br>
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **PolyMorphAI**
@@ -26,7 +24,6 @@ MCA graduate specializing in Python, machine learning, and large language models
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/swami--nathan/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1llbDkdr181CU5jTWjrwelQ4IRHDbhFvV/view?usp=drive_link)
 
-<br>
 <br>
 <br>
 
