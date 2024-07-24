@@ -1,17 +1,16 @@
 ## Hey 👋, I'm Swaminathan!
   <a href="mailto:swamibhuvanesan@gmail.com">
-    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" width="50" height="50" alt="Gmail">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" width="50" height="40" alt="Gmail">
   </a>
-
-  
+  <hr>  
   <a href="https://www.linkedin.com/in/swami--nathan/">
-    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="50" alt="LinkedIn">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="40" alt="LinkedIn">
   </a>
 
 
 MCA graduate specializing in Python, machine learning, and large language models. Passionate about AI/ML 🤖, Art 🎨, Competetive coding 💻, Building various projects 🛠️. 
 
-<img align="right" alt="GIF" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/kakashi-hatake-hello.gif" width=""/>
+<img align="right" alt="GIF" src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/kakashi-hatake-hello.gif" width="400px"/>
 
 <br>
 <br>
