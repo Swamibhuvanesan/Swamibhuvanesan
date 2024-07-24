@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Swaminathan!
   <a href="mailto:swamibhuvanesan@gmail.com">
-    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" width="50" height="40" alt="Gmail">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" width="40" height="40" alt="Gmail">
   </a>
-  <span>&emsp;&emsp;&emsp;&emsp;</span>
+  <span>&emsp;&emsp;&emsp;</span>
   <a href="https://www.linkedin.com/in/swami--nathan/">
-    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="40" alt="LinkedIn">
+    <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="40" height="40" alt="LinkedIn">
   </a>
 
 
