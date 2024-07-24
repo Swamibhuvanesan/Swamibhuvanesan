@@ -2,7 +2,8 @@
   <a href="mailto:swamibhuvanesan@gmail.com">
     <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/gmail.png" width="50" height="50" alt="Gmail">
   </a>
-  <br>
+
+  
   <a href="https://www.linkedin.com/in/swami--nathan/">
     <img src="https://github.com/Swamibhuvanesan/Swamibhuvanesan/blob/main/Resourse/Icons/linkedin.png" width="50" height="50" alt="LinkedIn">
   </a>
