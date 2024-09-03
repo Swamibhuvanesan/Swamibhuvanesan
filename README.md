@@ -41,7 +41,7 @@ MCA graduate specializing in Python, machine learning, and large language models
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/Swamibhuvanesan/Image-classification-project" target="_blank"> <img alt="Celebrity Image Classifier" src="Resourse/Icons/cic.jpeg" height="68" width="68" align="left"> </a>
+<a href="https://github.com/Swamibhuvanesan/Image-classification-project" target="_blank"> <img alt="Celebrity Image Classifier" src="Resourse/Icons/cic.jpg" height="68" width="68" align="left"> </a>
 <a href="https://github.com/Swamibhuvanesan/LLM-project/tree/main/!Custom%20Knowledge%20Base%20Chatbot" target="_blank"> <img alt="Custom Knowledge Base Chatbot" src="Resourse/Icons/CKcb.jpg"  height="68" width="68" align="left"> </a>
 <a href="https://github.com/Swamibhuvanesan/PolyMorphAI" target="_blank"> <img alt="PolyMorphAI" src="Resourse/Icons/PolyMorphAI.jpg" height="68" width="68" align="left"> </a>
 <a href="https://github.com/Swamibhuvanesan/EmpathyAura" target="_blank"> <img alt="EmpathyAura" src="Resourse/Icons/EmpathyAura.jpg" height="68" width="68" align="left"> </a>
