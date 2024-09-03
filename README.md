@@ -17,12 +17,12 @@ MCA graduate specializing in Python, machine learning, and large language models
 
 - 🔭 &nbsp; I’m currently working on **PolyMorphAI**
 - 🤝 &nbsp; I’m looking to collaborate on any python based projects.
-- 🌱 &nbsp; I’m currently learning GenAI; 
+- 🌱 &nbsp; I’m currently learning GenAI. 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Swamibhuvanesan?tab=repositories)
-- 🎨 &nbsp; I love to sketch anime characters and occasionally real people. I will upload my work soon...
-- 💬 &nbsp; Ask me about anything, I am happy to help;
+- 🎨 &nbsp; I love to sketch anime characters and occasionally real people.
+- 💬 &nbsp; Ask me about anything, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/swami--nathan/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1llbDkdr181CU5jTWjrwelQ4IRHDbhFvV/view?usp=drive_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1D3j2fr3o7ZWpIiRz5R23eXpdI7WoLMNZ/view?usp=sharing)
 
 <br>
 
@@ -43,7 +43,9 @@ MCA graduate specializing in Python, machine learning, and large language models
 ### 🛠️ My Projects
 <a href="https://github.com/Swamibhuvanesan/Image-classification-project" target="_blank"> <img alt="Celebrity Image Classifier" src="Resourse/Icons/cic.jpeg" height="68" align="left"> </a>
 <a href="https://github.com/Swamibhuvanesan/LLM-project/tree/main/!Custom%20Knowledge%20Base%20Chatbot" target="_blank"> <img alt="Custom Knowledge Base Chatbot" src="Resourse/Icons/CKcb.jpg"  height="68" align="left"> </a>
-<a href="https://github.com/Swamibhuvanesan/LLM-Explorations" target="_blank"> <img alt="LLM-Explorations" src="Resourse/Icons/LLM-Exploration.jpg" height="68" align="left"> </a>
+<a href="https://github.com/Swamibhuvanesan/PolyMorphAI" target="_blank"> <img alt="PolyMorphAI" src="Resourse/Icons/PolyMorphAI.jpg" height="68" align="left"> </a>
+<a href="https://github.com/Swamibhuvanesan/EmpathyAura" target="_blank"> <img alt="EmpathyAura" src="Resourse/Icons/EmpathyAura.jpg" height="68" align="left"> </a>
+<a href="https://github.com/Swamibhuvanesan/Alternative-Medicine-Recommendation-System-" target="_blank"> <img alt="Alternative-Medicine-Recommendation-System" src="Resourse/Icons/medicine-image.jpg" height="68" align="left"> </a>
 
 <br>
 <br>
