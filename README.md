@@ -15,14 +15,14 @@ MCA graduate specializing in Python, machine learning, and large language models
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **PolyMorphAI**
-- 🤝 &nbsp; I’m looking to collaborate on any python based projects.
-- 🌱 &nbsp; I’m currently learning GenAI. 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Swamibhuvanesan?tab=repositories)
-- 🎨 &nbsp; I love to sketch anime characters and occasionally real people.
-- 💬 &nbsp; Ask me about anything, I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/swami--nathan/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1D3j2fr3o7ZWpIiRz5R23eXpdI7WoLMNZ/view?usp=sharing)
+- 🔭 &nbsp; Currently working on a **Sales Dashboard with Predictive Insights**
+- 🌱 &nbsp; Learning more about **Data Analytics**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/Swamibhuvanesan?tab=repositories)
+- 🤖 &nbsp; I enjoy building AI characters on platforms like Charhub and Janitor
+- 🎨 &nbsp; I love sketching anime characters — and occasionally real people
+- 💬 &nbsp; Always happy to connect or chat about data, AI, or tech in general
+- 📫 &nbsp; Reach out via [LinkedIn](https://www.linkedin.com/in/swami--nathan/)
+- 📝 &nbsp; Check out my [Portfolio](https://swamibhuvanesan.github.io/Portfolio/)
 
 <br>
 
